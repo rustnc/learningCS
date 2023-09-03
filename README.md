@@ -1,0 +1,1 @@
+This repo contains all the in-class exercises, assignments and projects I did for CS50 2023
